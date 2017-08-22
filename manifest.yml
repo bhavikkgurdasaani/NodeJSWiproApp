@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: NodeJSWiproApp2
+  host: NodeJSWiproApp
+  disk_quota: 1024M
